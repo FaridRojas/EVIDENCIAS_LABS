@@ -1,2 +1,6 @@
 # EVIDENCIAS_LABS
-Repositorio que contiene las diapositivas de todos los laboratorios y el poster del proyecto final
+Integrantes del Grupo:
+* Farid Camilo Rojas Vargas - 2220051
+* Daniel Santiago Convers - 2221120
+* Jeferson Jair Acevedo Sarmiento - 2221790
+
